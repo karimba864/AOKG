@@ -1,0 +1,4 @@
+﻿  Lab1.cpp
+C:\Users\Petr\Desktop\ЧГУ\АОКГ\лабы\1\Project1\Project1\Lab1.cpp(54,36): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  LINK : не найден или не выполнена сборка C:\Users\Petr\Desktop\ЧГУ\АОКГ\лабы\1\Project1\Debug\Project1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\Petr\Desktop\ЧГУ\АОКГ\лабы\1\Project1\Debug\Project1.exe
